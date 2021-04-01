@@ -1,12 +1,12 @@
 package com.database;
-
+//after change.
 public class Student {
    private int id;
    private String name;
    private int phy;
    private int chem;
    private int maths;
-   private int tot;
+   private int total;
 
     public Student(int id, String name, int phy, int chem, int maths) {
         this.id = id;
