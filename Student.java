@@ -1,4 +1,5 @@
-package database;
+package com.database;
+
 public class Student {
    private int id;
    private String name;
